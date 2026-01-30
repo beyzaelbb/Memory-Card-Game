@@ -1,0 +1,46 @@
+# Compiled Java class files
+*.class
+bin/
+
+# Eclipse IDE
+.classpath
+.project
+.settings/
+.metadata/
+*.launch
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Build directories
+target/
+build/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Keep GIF for README
+!memory.gif
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Runtime data (optional - remove this line if you want to track high scores)
+highscores.txt
