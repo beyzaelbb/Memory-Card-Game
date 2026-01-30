@@ -76,7 +76,7 @@ This project was developed as part of a university coursework, demonstrating pro
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Memory-Card-Game.git
+git clone https://github.com/beyzaelbb/Memory-Card-Game.git
 
 # Navigate to the project directory
 cd Memory-Card-Game
